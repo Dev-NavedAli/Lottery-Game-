@@ -1,0 +1,10 @@
+.ticket{
+    display: flex;
+    border: 2px solid salmon;
+    border-radius: 14px;
+    justify-content: space-evenly;
+}
+
+.winner {
+    border-color: green; /* Change the border color when user wins */
+}

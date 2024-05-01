@@ -1,0 +1,10 @@
+.Ticket {
+    border: 1px solid salmon;
+    border-radius: 14px;
+    width: 300px;
+    margin-bottom: 15px;
+}
+.winner{
+    border-color: green;
+    color: green;
+}
